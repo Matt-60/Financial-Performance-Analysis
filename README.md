@@ -7,6 +7,10 @@ The project simulates a real‑world financial analytics scenario, where financi
 The main objective was to transform raw financial results into **clear, decision‑supporting insights for management**.
 
 ---
+## 📷 Report Preview
+<img width="1513" height="851" alt="Zrzut ekranu 2026-04-13 155458" src="https://github.com/user-attachments/assets/41205256-fc13-4cf4-a3ab-ad6a8d0253c2" />
+<img width="1512" height="850" alt="Zrzut ekranu 2026-04-13 155443" src="https://github.com/user-attachments/assets/ac5e0092-1075-4bac-8b1b-55a1a2ae0561" />
+
 
 ## 📂 Data
 The analysis is based on financial performance data including:
