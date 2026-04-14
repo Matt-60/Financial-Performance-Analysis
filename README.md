@@ -1,4 +1,4 @@
-# 📊 Financial Performance Analysis – Management Dashboard (Power BI)
+# 📊 Financial Performance Analysis (Power BI)
 
 ## 📌 Overview
 This project presents an **end‑to‑end financial performance analysis** built in **Power BI**, focused on **KPI monitoring, cost structure analysis, and management‑level insights**.
