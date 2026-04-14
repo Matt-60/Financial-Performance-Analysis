@@ -1,7 +1,7 @@
 # 📊 Financial Performance Analysis – Management Dashboard (Power BI)
 
 ## 📌 Overview
-This flagship project presents an **end‑to‑end financial performance analysis** built in **Power BI**, focused on **KPI monitoring, cost structure analysis, and management‑level insights**.
+This project presents an **end‑to‑end financial performance analysis** built in **Power BI**, focused on **KPI monitoring, cost structure analysis, and management‑level insights**.
 
 The project simulates a real‑world financial analytics scenario, where financial data is analyzed across **YTD, quarterly, and monthly levels**, and compared against **Previous Year (PY)** and **Budget**.  
 The main objective was to transform raw financial results into **clear, decision‑supporting insights for management**.
@@ -103,14 +103,6 @@ The data allows analysis across:
 
 ---
 
-## 🎯 Why This Is a Flagship Project
-This project best represents my profile as a **Data Analyst with a strong financial background**.  
-It combines:
-- financial domain knowledge,
-- analytical thinking,
-- Power BI reporting skills,
-- and a strong focus on **decision‑oriented insights**.
 
-The project demonstrates how financial data can be transformed into **clear, structured, and actionable information for management**.
 
 ---
